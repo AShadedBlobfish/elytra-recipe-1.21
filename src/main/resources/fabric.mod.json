@@ -1,0 +1,27 @@
+{
+	"schemaVersion": 1,
+	"id": "elytra-recipe",
+	"version": "1.0.0",
+	"name": "Elytra Recipe",
+	"description": "Adds a crafting recipe for the Elytra",
+	"authors": [
+		"AShadedBlobfish"
+	],
+	"contact": {
+		"sources": "https://github.com/AShadedBlobfish/elytra-recipe"
+	},
+	"license": "Unlicense",
+	"icon": "assets/elytra-recipe/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.elytrarecipe.ElytraRecipe"
+		]
+	},
+	"depends": {
+		"fabricloader": ">=0.18.1",
+		"minecraft": "~1.21.10",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
