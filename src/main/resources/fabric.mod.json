@@ -10,7 +10,7 @@
 	"contact": {
 		"sources": "https://github.com/AShadedBlobfish/elytra-recipe"
 	},
-	"license": "Unlicense",
+	"license": "CC0-1.0",
 	"icon": "assets/elytra-recipe/icon.png",
 	"environment": "*",
 	"entrypoints": {
@@ -19,7 +19,7 @@
 		]
 	},
 	"depends": {
-		"fabricloader": ">=0.18.1",
+		"fabricloader": ">=0.17.3",
 		"minecraft": "~1.21.10",
 		"java": ">=21",
 		"fabric-api": "*"
