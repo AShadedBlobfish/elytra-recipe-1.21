@@ -2,12 +2,12 @@
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "KKK",
-    "KNK",
-    "KFK"
+    "KFK",
+    "KNK"
   ],
   "key": {
-    "K": "elytra-recipe:kevlar",
-    "N": "elytra-recipe:enchanted_ender_eye",
+    "K": "minecraft:phantom_membrane",
+    "N": "minecraft:ender_eye",
     "F": "minecraft:feather"
   },
   "result": {

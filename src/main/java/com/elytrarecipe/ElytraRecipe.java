@@ -15,13 +15,7 @@ public class ElytraRecipe implements ModInitializer {
 	@Override
 	public void onInitialize() {
 
-        try {
-            ModItems.initialize();
-            LOGGER.info("Mod loaded successfully");
-        }
-        catch (Exception e) {
-            LOGGER.info("An error occurred and the mod may not be working correctly. Java Exception data: {}", String.valueOf(e));
-        }
+        LOGGER.info("Mod loaded successfully");
 
 	}
 }

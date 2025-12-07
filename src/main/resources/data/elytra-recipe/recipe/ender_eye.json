@@ -1,8 +1,0 @@
-{
-  "type": "minecraft:crafting_shapeless",
-  "ingredients": ["elytra-recipe:enchanted_ender_eye"],
-  "result": {
-    "count": 9,
-    "id": "minecraft:ender_eye"
-  }
-}

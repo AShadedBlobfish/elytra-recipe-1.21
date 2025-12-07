@@ -1,6 +1,0 @@
-{
-  "parent": "minecraft:item/generated",
-  "textures": {
-    "layer0": "elytra-recipe:item/enchanted_ender_eye"
-  }
-}
