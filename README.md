@@ -18,7 +18,7 @@ The Vanilla Edition is a version of the mod which uses only vanilla items in the
 
 The recipe in the Vanilla Edition
 
-Download the latest version of the Vanilla Edition [here](https://github.com/AShadedBlobfish/elytra-recipe/releases/tag/vanilla-1.0.0)
+Download the latest version of the Vanilla Edition from [Modrinth](https://modrinth.com/mod/elytra-recipe-vanilla)
 <br><br>
 
 ### Kevlar (Standard Edition only)
